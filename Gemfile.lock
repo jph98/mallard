@@ -1,0 +1,15 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    colorize (0.7.7)
+    gosu (0.10.4)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  colorize
+  gosu
+
+BUNDLED WITH
+   1.10.6
